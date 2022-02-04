@@ -2,6 +2,9 @@
 >💡Manjaro日常使用可能遇到的问题，**项目在Github和Gitee同步更新**（Problems that Manjaro may encounter with daily use）
 
 ---
+
+Github用户可点击下方链接跳转，Gitee用户直接点击文件列表的文件即可。
+
 [系统相关(System-related)](https://github.com/Moriarty1024/Manjaro-Handbook/blob/master/%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3.md)
 
 [软件安装(Software installation)](https://github.com/Moriarty1024/Manjaro-Handbook/blob/master/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85.md)
