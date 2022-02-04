@@ -9,3 +9,4 @@
 - 遇到问题可加群交流
 
 ![交流群](https://github.com/Moriarty1024/Manjaro-Handbook/blob/master/Image/%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg)
+![交流群.](https://gitee.com/moriarty1024/markdown_image/raw/master/img/微信交流群二维码.png)
